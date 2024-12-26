@@ -1,2 +1,3 @@
 # Survey_Vision_AW
 Aplicación web para las encuestas de satisfacción (app para recopilación de la información)
+El presente proyecto integrador se centra principalmente en el desarrollo de una aplicación web dedicada a la recolección de información a través de encuestas de satisfacción enfocadas en el sector de restaurantes. El objetivo principal de esta aplicación es obtener información detallada sobre la calidad del servicio y los productos ofrecidos para encontrar indicadores como (la medida de satisfacción de necesidades, preferencias, evaluar competencias, valoración general, calificación de la atención recibida, recibir sugerencias, etc), lo cual permitirá a los restaurantes tomar decisiones informadas para mejorar su desempeño y la satisfacción del cliente.
