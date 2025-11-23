@@ -9,12 +9,12 @@ class Respuesta extends Model
 {
     use HasFactory;
     protected $table = 'respuesta';
-    protected $fillable = [
+    /*protected $fillable = [
         'id_encuesta',
         'id_pregunta',
         'respuesta_cuanti',
         'respuesta_cuali',
-    ];
+    ];*/
 
     public function encuesta()
     {
